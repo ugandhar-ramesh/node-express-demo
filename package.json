@@ -2,9 +2,9 @@
   "name": "express-demo",
   "version": "1.0.0",
   "description": "node-express-demo",
-  "main": "src/app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "nodemon app.js",
+    "start": "nodemon index",
     "test": "test"
   },
   "repository": {
